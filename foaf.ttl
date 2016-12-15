@@ -1,4 +1,4 @@
-@base <http://download1495.mediafire.com/020ug7zd76dg/hvwjs58ih3l9xqp/foaf.ttl#> .
+@base <https://raw.githubusercontent.com/ljubomirsk/WBS/master/foaf.ttl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
@@ -26,14 +26,14 @@
    ; foaf:made <> 
 . 
 
-<http://download1495.mediafire.com/020ug7zd76dg/hvwjs58ih3l9xqp/foaf.ttl#Me> foaf:knows <https://www.dropbox.com/s/ab2oe6tyv30fk63/foaf.ttl?dl=1> . 
+<https://raw.githubusercontent.com/ljubomirsk/WBS/master/foaf.ttl#Me> foaf:knows <https://www.dropbox.com/s/ab2oe6tyv30fk63/foaf.ttl?dl=1> . 
 
 <https://www.dropbox.com/s/ab2oe6tyv30fk63/foaf.ttl?dl=1> a foaf:Person 
    ; foaf:name "Ilija Ilijev" 
    ; foaf:mbox_sha1sum "4881e8acdfd3006d203c4ca7541dc52d10a5387c" 
 . 
 
-<http://download1495.mediafire.com/020ug7zd76dg/hvwjs58ih3l9xqp/foaf.ttl#Me> foaf:knows <https://bohap.github.io/wbs/foaf/me.ttl> . 
+<https://raw.githubusercontent.com/ljubomirsk/WBS/master/foaf.ttl#Me> foaf:knows <https://bohap.github.io/wbs/foaf/me.ttl> . 
 
 <https://bohap.github.io/wbs/foaf/me.ttl> a foaf:Person 
    ; foaf:name "Borche Petrovski" 
