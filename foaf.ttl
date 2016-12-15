@@ -24,7 +24,7 @@
    ; foaf:img <> 
    ; foaf:publications <> 
    ; foaf:made <> 
-.  
+. 
 
 <https://rawgit.com/ljubomirsk/WBS/master/foaf.ttl#Me> foaf:knows <https://bohap.github.io/wbs/foaf/me.ttl> . 
 
