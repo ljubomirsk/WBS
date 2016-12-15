@@ -24,14 +24,7 @@
    ; foaf:img <> 
    ; foaf:publications <> 
    ; foaf:made <> 
-. 
-
-<https://rawgit.com/ljubomirsk/WBS/master/foaf.ttl#Me> foaf:knows <https://www.dropbox.com/s/ab2oe6tyv30fk63/foaf.ttl?dl=1> . 
-
-<https://www.dropbox.com/s/ab2oe6tyv30fk63/foaf.ttl?dl=1> a foaf:Person 
-   ; foaf:name "Ilija Ilijev" 
-   ; foaf:mbox_sha1sum "4881e8acdfd3006d203c4ca7541dc52d10a5387c" 
-. 
+.  
 
 <https://rawgit.com/ljubomirsk/WBS/master/foaf.ttl#Me> foaf:knows <https://bohap.github.io/wbs/foaf/me.ttl> . 
 
