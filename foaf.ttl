@@ -1,0 +1,42 @@
+@base <http://download1495.mediafire.com/020ug7zd76dg/hvwjs58ih3l9xqp/foaf.ttl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<Me> a foaf:Person 
+   ; foaf:title "Mr" 
+   ; foaf:givenName "Ljubomir" 
+   ; foaf:familyName "Ignov" 
+   ; foaf:name "Mr Ljubomir Ignov" 
+   ; foaf:nick "Ljube" 
+   ; foaf:mbox_sha1sum "433dd32aa67f08c7b05b5a6bce3e65d50a3508ad" 
+   ; foaf:homepage <> 
+   ; foaf:weblog <> 
+   ; foaf:tipJar <> 
+   ; foaf:account <> 
+   ; foaf:account <https://www.facebook.com/ljubomir.ignov> 
+   ; foaf:account <https://twitter.com/CrepNaKuben> 
+   ; foaf:age "21" 
+   ; foaf:workplaceHomepage <> 
+   ; foaf:schoolHomepage <http://finki.ukim.mk/> 
+   ; foaf:based_near "Skopje" 
+   ; foaf:currentProject <> 
+   ; foaf:img <> 
+   ; foaf:publications <> 
+   ; foaf:made <> 
+. 
+
+<http://download1495.mediafire.com/020ug7zd76dg/hvwjs58ih3l9xqp/foaf.ttl#Me> foaf:knows <https://www.dropbox.com/s/ab2oe6tyv30fk63/foaf.ttl?dl=1> . 
+
+<https://www.dropbox.com/s/ab2oe6tyv30fk63/foaf.ttl?dl=1> a foaf:Person 
+   ; foaf:name "Ilija Ilijev" 
+   ; foaf:mbox_sha1sum "4881e8acdfd3006d203c4ca7541dc52d10a5387c" 
+. 
+
+<http://download1495.mediafire.com/020ug7zd76dg/hvwjs58ih3l9xqp/foaf.ttl#Me> foaf:knows <https://bohap.github.io/wbs/foaf/me.ttl> . 
+
+<https://bohap.github.io/wbs/foaf/me.ttl> a foaf:Person 
+   ; foaf:name "Borche Petrovski" 
+   ; foaf:mbox_sha1sum "62caa129cb68e5009965e0f6dd2620d610b511ce" 
+. 
+
